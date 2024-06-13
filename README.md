@@ -18,3 +18,7 @@
 
 - 💬 Ask me about astrodynamics, astrophysics, design, CAD modelling, UI/UX
 - 📫 How to reach me: hi@darkmatter.is
+
+| ![image](https://github.com/JMMonte/space-simulator/blob/main/src/images/Screenshot%202024-04-12%20at%2012.19.09.png) | ![image2](https://github.com/JMMonte/Reentry/blob/main/assets/Screenshot%202023-05-05%20at%2013.34.09.png) | ![image3](https://github.com/JMMonte/Planetesimal_3d_simulation/blob/main/images/three_body_problem.png) | ![image4](https://github.com/JMMonte/Astrodynamics-visual-calculator/blob/main/Screenshot%202023-04-21%20at%2001.47.50.png)| ![image5](https://github.com/JMMonte/Reentry_v2/blob/main/public/assets/texture/reenter_v2.png)|
+|:---:|:---:|:---:|:---:|:---:|
+| 3d space autopilot | reentry simulator | planet sim | maneuver sim | AI + Space |
